@@ -7,8 +7,7 @@ from myserver import server_on
 
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 
-# คำสั่ง bot พร้อมใช้งานแล้ว
-TOKEN=''
+
 
 
 # //////////////////// Bot Event /////////////////////////
